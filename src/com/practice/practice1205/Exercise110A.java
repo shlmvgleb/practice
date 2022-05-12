@@ -1,4 +1,4 @@
-package com.practice.pratice1205;
+package com.practice.practice1205;
 
 import java.util.ArrayList;
 import java.util.Scanner;
