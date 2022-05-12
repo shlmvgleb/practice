@@ -1,4 +1,4 @@
-package com.practice.second;
+package com.practice.pratice1205;
 
 import java.util.Collections;
 import java.util.HashSet;
