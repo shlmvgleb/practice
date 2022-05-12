@@ -1,9 +1,9 @@
-package com.practice;
+package com.practice.first;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Exercise77A {
+public class Exercise71A {
     public static void main(String[] args) {
         StringBuilder result = new StringBuilder();
         Scanner sc1 = new Scanner(System.in);

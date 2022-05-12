@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.second;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -19,8 +19,8 @@ public class Exercise69A {
         ArrayList<ArrayList<Integer>> flipped = new ArrayList<>();
         for (int i = 0; i < 3; i++) {
             ArrayList<Integer> x = new ArrayList<>();
-            for (int j = 0; j < array.size(); j++) {
-                x.add(array.get(j).get(i));
+            for (ArrayList<Integer> integers : array) {
+                x.add(integers.get(i));
             }
             flipped.add(x);
         }

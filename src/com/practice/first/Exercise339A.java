@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.first;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -21,8 +21,8 @@ public class Exercise339A {
             }
         }
         StringBuilder result = new StringBuilder();
-        for (int i = 0; i < array.size(); i++) {
-            result.append(array.get(i));
+        for (Integer integer : array) {
+            result.append(integer);
             result.append("+");
         }
         result.deleteCharAt(result.length() - 1);

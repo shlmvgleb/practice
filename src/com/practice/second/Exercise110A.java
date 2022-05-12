@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.second;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -19,7 +19,6 @@ public class Exercise110A {
         for (String s : String.valueOf(counter).split("")) {
             array2.add(Integer.parseInt(s));
         }
-        boolean status = true;
         if (array2.size() > 1) {
             for (int i = 0; i < array2.size() - 1; i++) {
                 if (!((array2.get(i) == 4 || array2.get(i) == 7) &&
