@@ -17,4 +17,5 @@ public class Exercise116A {
         }
         System.out.println(max);
     }
+
 }

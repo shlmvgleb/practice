@@ -23,3 +23,4 @@ public class Exercise617A {
         else System.out.println(min);
     }
 }
+

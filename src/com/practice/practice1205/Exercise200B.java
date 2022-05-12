@@ -14,3 +14,4 @@ public class Exercise200B {
         System.out.println(counter/count);
     }
 }
+

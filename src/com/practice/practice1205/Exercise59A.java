@@ -17,4 +17,5 @@ public class Exercise59A {
         else word = word.toLowerCase();
         System.out.println(word);
     }
+
 }

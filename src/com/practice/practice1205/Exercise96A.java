@@ -15,4 +15,5 @@ public class Exercise96A {
         if (counter >= 7) System.out.println("YES");
         else System.out.println("NO");
     }
+
 }

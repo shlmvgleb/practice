@@ -15,3 +15,4 @@ public class Exercise266A {
         System.out.println(counter);
     }
 }
+

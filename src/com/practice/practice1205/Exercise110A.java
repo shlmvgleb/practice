@@ -32,4 +32,5 @@ public class Exercise110A {
             else System.out.println("NO");
         }
     }
+
 }

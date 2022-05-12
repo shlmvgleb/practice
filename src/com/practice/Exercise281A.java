@@ -10,5 +10,6 @@ public class Exercise281A {
         Character x = Character.toUpperCase(splitList[0].charAt(0));
         splitList[0] = x.toString();
         System.out.println(String.join("", splitList));
+
     }
 }

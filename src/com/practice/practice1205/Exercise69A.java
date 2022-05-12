@@ -35,4 +35,5 @@ public class Exercise69A {
         if (result == flipped.size()) System.out.println("YES");
         else System.out.println("NO");
     }
+
 }
